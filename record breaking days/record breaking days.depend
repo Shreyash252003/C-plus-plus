@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651686610 source:e:\c++\starting with c++\record breaking days\main.cpp
+	<iostream>
+	<climits>
+

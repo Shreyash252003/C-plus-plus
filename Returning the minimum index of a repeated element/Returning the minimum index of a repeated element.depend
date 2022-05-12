@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651773310 source:e:\c++\starting with c++\returning the minimum index of a repeated element\main.cpp
+	<iostream>
+	<climits>
+
